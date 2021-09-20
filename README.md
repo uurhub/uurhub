@@ -34,7 +34,7 @@
 ---
 
 
-[website]: https://github.com/uurhub
+[website]: https://ugurgorkem.w3spaces.com/
 [course]: https://github.com/uurhub
 [twitter]: https://twitter.com/ugurgorkemm
 [youtube]: https://www.youtube.com/channel/UCAAvAeNQ_uim88fxHUfajew
