@@ -5,7 +5,7 @@
 
 - 🔭 I’m interested in everything about technology
 - 🌱 I’m currently learning HTML,Css and Python Programming Language 🤣
-- 🥅 2021 Goals: 
+- 🥅 2022 Goals: 
 - ⚡ Fun fact: I love to watching soccer and play guitar 
 
 ### Connect with me:
