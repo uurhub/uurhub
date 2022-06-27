@@ -1,44 +1,15 @@
-### Hi there, I'm Ugur Gorkem - aka [uurhub]👋
+<h1 align="center">Hi 👋, I'm Ugur Gorkem</h1>
+<h3 align="center">I'm Ugur Gorkem. I'm in my 20. I'm studying at Ankara Medipol University in the Computer Programming associate degree program. I improve myself to be a full-stack web developer.</h3>
 
+- 🔭 I’m currently working on **Python Projects**
 
-## I'm a student of Ankara Medipol University!!
+- 🌱 I’m currently learning **Python and Front-End Skills**
 
-- 🔭 I’m interested in everything about technology
-- 🌱 I’m currently learning HTML,Css and Python Programming Language 🤣
-- 🥅 2022 Goals: 
-- ⚡ Fun fact: I love to watching soccer and play guitar
-- E-Mail: ugurgorkem.odabas@gmail.com
+- 📫 How to reach me **ugurgorkem.odabas@gmail.com**
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-
-
-<br />
-<br />
-
----
-
-
-[website]: https://ugurgorkem.w3spaces.com/
-[course]: https://github.com/uurhub
-[twitter]: https://twitter.com/ugurgorkemm
-[youtube]: https://www.youtube.com/channel/UCAAvAeNQ_uim88fxHUfajew
-[instagram]: https://instagram.com/ugurgorkem0
-[linkedin]: https://www.linkedin.com/in/u%C4%9Fur-g%C3%B6rkem-odaba%C5%9F-202361202/
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ugurgorkemm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ugurgorkemm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ugur-gorkem-odabas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ugur-gorkem-odabas/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ugurgorkem0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ugurgorkem0/" height="30" width="40" /></a>
+</p>
