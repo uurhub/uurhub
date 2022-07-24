@@ -1,5 +1,5 @@
 <h1 align="center">Ugur Gorkem</h1>
-<h3 align="center">I'm Ugur Gorkem. I'm in my 20. I'm studying at Ankara Medipol University in the Computer Programming associate degree program. I improve myself to be a full-stack web developer.</h3>
+<h3 align="center">I graduated from Ankara Medipol University with a computer programming associate degree. I improve myself to be a full-stack web developer.</h3>
 
 - 🔭 I’m currently working on **Python Projects**
 
